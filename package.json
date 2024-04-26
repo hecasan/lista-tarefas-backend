@@ -1,0 +1,14 @@
+{
+  "name": "lista-tarefas-backend",
+  "version": "1.0.0",
+  "description": "Backend da minha lista de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hete Caetano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
